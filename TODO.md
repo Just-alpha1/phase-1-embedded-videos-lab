@@ -1,0 +1,1 @@
+- [x] Edit index.html to add the video element with controls, autoplay, width="600", height="400", two source tags (MP4 and OGG), and fallback message.
